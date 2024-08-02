@@ -34,18 +34,8 @@
         },
         {
           "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
-        },
-        {
-          "source": "/",
           "target": "/tags/setup",
           "text": "setup-related notes"
-        },
-        {
-          "source": "/",
-          "target": "/setup/troubleshooting",
-          "text": "Troubleshooting and FAQ"
         }
       ],
       "/features/languages": [
@@ -348,11 +338,6 @@
       ],
       "/setup/troubleshooting": [
         {
-          "source": "/",
-          "target": "/setup/troubleshooting",
-          "text": "Troubleshooting and FAQ"
-        },
-        {
           "source": "/setup/config",
           "target": "/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
@@ -371,13 +356,6 @@
           "source": "/setup/setup",
           "target": "/setup/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/updating": [
-        {
-          "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
         }
       ],
       "/tags/setup": [
@@ -422,18 +400,8 @@
     },
     {
       "source": "/",
-      "target": "/setup/updating",
-      "text": "update"
-    },
-    {
-      "source": "/",
       "target": "/tags/setup",
       "text": "setup-related notes"
-    },
-    {
-      "source": "/",
-      "target": "/setup/troubleshooting",
-      "text": "Troubleshooting and FAQ"
     },
     {
       "source": "/features/languages",
